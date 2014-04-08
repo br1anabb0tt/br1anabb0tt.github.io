@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
   line-height: 1.2;
 }
-section h3 {
+h3 {
 	margin-bottom: 0.8em;
 }
 p, ul, ol, table, pre, dl {
